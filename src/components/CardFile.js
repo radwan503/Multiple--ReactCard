@@ -8,7 +8,7 @@ export default function CardFile() {
     return (
         <div className="container">
             <div className="bg-dark text-center py-5">
-                <h1 className="text-white">Bootstrap Accordion</h1>
+                <h1 className="text-white">Bootstrap Multiple Accordion </h1>
             </div>
 
             <div className="row">
